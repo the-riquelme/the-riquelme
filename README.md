@@ -1,4 +1,4 @@
- ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/the-riquelme/master/gifs/Hi.gif" width="30px">
   
   ### Resumo
   
@@ -8,9 +8,9 @@
   ## 
   
 <div>
-      <a href="https://github.com/Riquelme-D-Silva">
-      <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
+      <a href="https://github.com/the-riquelme">
+      <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=the-riquelme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-riquelme&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## Skills in development :nerd_face:
@@ -30,7 +30,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/riquelme-dami%C3%A3o-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/Riquelme-D-Silva">
+     <a href="https://github.com/the-riquelme">
          <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
     </a>
 </div>
