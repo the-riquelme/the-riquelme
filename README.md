@@ -1,10 +1,9 @@
   
   ## Olá! Sou Riquelme
-<div>
+<div style="display:inline">
       <a href="https://github.com/Riquelme-D-Silva">
-      <img height="175px" width="500px" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="175px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
- </div>
+      <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
+        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> </div>
    </br>
 <div style="display: inline_block">
       <img align="center" alt="Riq-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
