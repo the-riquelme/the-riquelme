@@ -1,9 +1,8 @@
 ### 👋Olá! Eu sou o Riquelme
-  ##
 <div>
    <a href="https://github.com/Riquelme-D-Silva">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </br>
 <div style="display: inline_block">
@@ -15,6 +14,6 @@
   ##
 
 <div>
-  <a href = "mailto:rd15075@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:rd15075@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/riquelme-dami%C3%A3o-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
