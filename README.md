@@ -1,13 +1,8 @@
 ### 👋Olá! Eu sou o Riquelme
-
-
-<ul>
-  <li>📕 Sou estudante de Sistemas de Informação</li>
-  <li>📚 Atualmente, estou aprendendo HTML, CSS e JavaScript</li>
-</ul>
+  ##
 <div>
    <a href="https://github.com/Riquelme-D-Silva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </br>
