@@ -1,9 +1,17 @@
   
-  ## Olá! Sou Riquelme
+  ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  
+  ### Resumo
+  
+  - 🌱 Estudante de Sistemas de informação.
+  - 📚 Estudando atualmente: HTML, CSS e JavaScript.
+  
+  
+  
 <div>
       <a href="https://github.com/Riquelme-D-Silva">
-      <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
    </br>
 <div style="display: inline_block">
