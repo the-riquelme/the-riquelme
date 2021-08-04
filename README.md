@@ -5,10 +5,10 @@
   <li>📕 Sou estudante de Sistemas de Informação</li>
   <li>📚 Atualmente, estou aprendendo HTML, CSS e JavaScript</li>
 </ul>
- <div style="display: inline_block">
-  <a href="https://github.com/Riquelme-D-Silva">
-  <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=16&theme=dark"/>
+<div>
+   <a href="https://github.com/Riquelme-D-Silva">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riquelme-D-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelme-D-Silva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </br>
 <div style="display: inline_block">
