@@ -3,7 +3,7 @@
   ### Resumo
   
   - 🌱 Estudante de Sistemas de informação.
-  - 🖤 Interesse: Desenvolvimento mobile e Web.
+  - 🖤 Interesses: Desenvolvimento mobile e Web.
 
   ## 
   
