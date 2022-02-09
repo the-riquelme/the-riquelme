@@ -10,7 +10,7 @@
 <div>
       <a href="https://github.com/the-riquelme">
       <img align="center" height="155px" src="https://github-readme-stats.vercel.app/api?username=the-riquelme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-riquelme&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-riquelme" />
+      <img height="155px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-riquelme&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-riquelme" />
 </div>
   
   ## Skills in development :nerd_face:
