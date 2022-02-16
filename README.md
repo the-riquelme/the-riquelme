@@ -1,10 +1,11 @@
- ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme Damião Silva</h1>
   
-  ### Resumo
+  <h3 align="center">A Brazilian developer obsessed with technology</h3>
   
-  - 🌱 Estudante de Sistemas de informação.
-  - 🖤 Interesses: Desenvolvimento mobile e Web.
-
+  - 📚 I’m currently undergraduate Information System
+  - 👨‍💻 I am currently learning JavaScript, HTML and CSS
+  - 📫 How to reach me <b>riquelmedamiaosilva@gmail.com</b>
+  
   ## 
   
 <div>
@@ -13,24 +14,18 @@
       <img height="155px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-riquelme&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-riquelme" />
 </div>
   
-  ## Skills in development :nerd_face:
+  ## Technologies
   
-<div align="center">
-      <img align="center" alt="Riq-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="Riq-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" alt="Riq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
+<div align="left" style="display: inline_block"> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a> 
+</div>
 
-   ## Contact :iphone:
+   ## Connect with me:
 
 <div align="center">
      <a href ="mailto:riquelmedamiaosilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/the-riquelme">
-         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
-    </a>
 </div>
