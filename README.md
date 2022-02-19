@@ -1,4 +1,4 @@
-  <h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
   
   
  - 📚 I’m currently undergraduate Information System
