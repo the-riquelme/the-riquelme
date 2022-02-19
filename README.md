@@ -5,7 +5,6 @@
  - 👨‍💻 I am currently learning JavaScript, HTML and CSS
  - 📫 How to reach me <b>riquelmedamiaosilva@gmail.com</b>
  
- <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
   
