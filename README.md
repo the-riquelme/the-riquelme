@@ -22,7 +22,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a> 
 </div>
 
-   ## Connect with me:
+ ## :link: Connect with me:
 
 <div lign="left" style="display: inline_block" >
      <a href="https://www.instagram.com/the_riquelme_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="the-riquelme"/></a>
