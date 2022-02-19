@@ -1,5 +1,4 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
-  
+ <h1 align="left">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
   
 - 📚 I’m currently undergraduate Information System
 - 👨‍💻 I am currently learning JavaScript, HTML and CSS
@@ -18,13 +17,13 @@
 
 <br>
 
-<div>
-      <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-riquelme&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-riquelme" />
+<div align="left">
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-riquelme&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-riquelme" />
 </div>
  
 <br>
 
-## :link: Connect with me:
+## :link: Connect with me
 
 <div lign="left" style="display: inline_block" >
      <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
