@@ -18,9 +18,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=the-riquelme&show_icons=true&theme=vision-friendly-dark" alt="the-riquelme's stats"/>
-   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-riquelme&layout=compact&theme=vision-friendly-dark" alt="the-riquelme's most languages"/>
+<div align="left">
+   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=the-riquelme&show_icons=true&theme=vision-friendly-dark" alt="the-riquelme's stats"/>
+   <img height="155px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-riquelme&layout=compact&theme=vision-friendly-dark" alt="the-riquelme's most languages"/>
 </div>
 
 <br>
