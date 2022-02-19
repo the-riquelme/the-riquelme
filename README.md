@@ -4,6 +4,15 @@
 - 👨‍💻 I am currently learning JavaScript, HTML and CSS
 - 📫 How to reach me <b>riquelmedamiaosilva@gmail.com</b>
 
+
+## :link: Connect with me
+
+<div lign="left" style="display: inline_block" >
+     <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.instagram.com/the_riquelme_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="the-riquelme"/></a>
+</div>
+
+<br>
   
 ## 🛠 &nbsp;Tech Stack
   
@@ -19,13 +28,4 @@
 
 <div align="left">
       <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-riquelme&show_icons=true&theme=dark&locale=en&layout=compact" alt="the-riquelme" />
-</div>
- 
-<br>
-
-## :link: Connect with me
-
-<div lign="left" style="display: inline_block" >
-     <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="https://www.instagram.com/the_riquelme_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="the-riquelme"/></a>
 </div>
