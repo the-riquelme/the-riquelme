@@ -11,11 +11,11 @@
 ## 🛠 &nbsp;Tech Stack
   
 <div align="left" style="display: inline_block" > 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-    <img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=21A4F1" alt="vscode"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=21A4F1" alt="vscode"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
 </div>
 
 <br>
