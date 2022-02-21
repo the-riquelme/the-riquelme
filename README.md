@@ -1,6 +1,6 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
 
-<h3 align="left">A developer from Brazil</h3>
+<h3 align="left"> :brazil: A developer from Brazil</h3>
 
 - 📚 I’m currently undergraduate Information System
 - 👨‍💻 I am currently learning JavaScript, HTML and CSS
