@@ -4,6 +4,8 @@
 - 👨‍💻 I am currently learning JavaScript, HTML and CSS
 - 📫 How to reach me <b>riquelmedamiaosilva@gmail.com</b>
  
+ <br>
+ 
 ## 🛠 &nbsp;Tech Stack
   
 <div align="left" style="display: inline_block" > 
