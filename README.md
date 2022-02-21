@@ -1,13 +1,12 @@
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
 
-<h3 align="center"> A developer from Brazil :brazil: </h3>
+
 
 - 📚 I’m currently undergraduate Information System
 - 👨‍💻 I am currently learning JavaScript, HTML and CSS
 - 📫 How to reach me <b>riquelmedamiaosilva@gmail.com</b>
 
-<br>
-  
+
 ## 🛠 &nbsp;Tech Stack
   
 <div align="left" style="display: inline_block" > 
