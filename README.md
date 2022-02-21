@@ -1,12 +1,9 @@
- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
-
-
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
 
 - 📚 I’m currently undergraduate Information System
 - 👨‍💻 I am currently learning JavaScript, HTML and CSS
 - 📫 How to reach me <b>riquelmedamiaosilva@gmail.com</b>
-
-
+ 
 ## 🛠 &nbsp;Tech Stack
   
 <div align="left" style="display: inline_block" > 
@@ -28,7 +25,7 @@
 
 <br>
 
-## :link: Connect with me
+## :link: &nbsp;Connect with me
 
 <div lign="left" style="display: inline_block" >
      <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
