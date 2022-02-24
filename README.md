@@ -2,7 +2,10 @@
  
 ### Sobre mim
 <div style="display: inline_block"  >
-<p> - 👨‍🎓 Estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
+<p> - 🎓  Estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
+<p> - 👨‍💻 Desenvolvedor FullStack em formação. </p>
+<p> - 🚀 Buscando sempre expandir e aprimorar meus conhecimentos. </p>
+<p> - 📫 E-mail para contato: <a href="mailto:riquelmedamiaosilva@gmail.com">riquelmedamiaosilva@gmail.com</a> </p>
 </div>
  
 ## 🛠 &nbsp;Tecnologias e Ferramentas
