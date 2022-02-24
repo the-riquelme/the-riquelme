@@ -8,6 +8,8 @@
 <p> - 📫 E-mail para contato: <a href="mailto:riquelmedamiaosilva@gmail.com">riquelmedamiaosilva@gmail.com</a> </p>
 </div>
  
+<br>
+ 
 ## 🛠 &nbsp;Tecnologias e Ferramentas
   
 <div align="left" style="display: inline_block" > 
