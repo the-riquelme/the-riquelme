@@ -1,14 +1,11 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Riquelme</h1>
+<h1 align="center">Olá, eu sou o Riquelme! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
  
- <br>
+### Sobre mim
+<div style="display: inline_block"  >
+<p> - 👨‍🎓 Estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
+</div>
  
-- 📚 I’m currently undergraduate Information System
-- 👨‍💻 I am currently learning JavaScript, HTML and CSS
-- 📫 How to reach me <b>riquelmedamiaosilva@gmail.com</b>
- 
- <br>
- 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias e Ferramentas
   
 <div align="left" style="display: inline_block" > 
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
@@ -29,9 +26,10 @@
 
 <br>
 
-## :link: &nbsp;Connect with me
+## :iphone: &nbsp;Meus contatos
 
 <div lign="left" style="display: inline_block" >
      <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://www.instagram.com/the_riquelme_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="the-riquelme"/></a>
+     <a href="mailto:riquelmedamiaosilva@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com"></a>
 </div>
