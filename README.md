@@ -4,7 +4,7 @@
 <div style="display: inline_block"  >
 <p> - 🎓  Estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
 <p> - 👨‍💻 Desenvolvedor FullStack em formação. </p>
-<p> - 🚀 Buscando sempre expandir meus conhecimentos. </p>
+<p> - 🚀 Em aprendizado constante. </p>
 <p> - 📫 E-mail para contato: <a href="mailto:riquelmedamiaosilva@gmail.com">riquelmedamiaosilva@gmail.com</a> </p>
 </div>
  
