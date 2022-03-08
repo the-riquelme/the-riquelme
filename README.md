@@ -2,9 +2,8 @@
  
 <h3 = align="center"> Desenvolvedor FullStack em formação </h3>
 <div style="display: inline_block"  >
-<p> - 👨‍💻 Desenvolvedor FullStack em formação. </p>
-<p> - 🎓  Estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
-<p> - 📫 E-mail para contato: <a href="mailto:riquelmedamiaosilva@gmail.com">riquelmedamiaosilva@gmail.com</a> </p>
+<p> - 🎓  Sou estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
+<p> - 👨‍💻 Atualmente, estou aprendendo sobre HTML, CSS, JavaScript. </p>
 </div>
  
 <br>
