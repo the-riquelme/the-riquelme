@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Riquelme! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
  
-<h3 = align="center"> Desenvolvedor FullStack em formação </h3>
+<h3> Desenvolvedor FullStack em formação </h3>
 <div style="display: inline_block"  >
 <p> - 🎓  Sou estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
 <p> - 👨‍💻 Atualmente, estou aprendendo sobre HTML, CSS, JavaScript. </p>
