@@ -1,11 +1,10 @@
 <h1  align="center"> ✌ Olá, tudo bem? Eu sou o Riquelme! </h1>
 
-<div style="display: inline_block"  >
- <h3> 🤔 Sobre </h3>
- <p> - 👨‍💻 Desenvolvedor FullStack em formação. </p>
- <p> - 📚 Estudante de Sistemas de Informação. </p>
- <p> - :white_flag: Em tempo livre, Gamer 🎮 e Otaku :jp: </p>
-</div>
+<h3> 🤔 Sobre </h3>
+
+- 👨‍💻 Desenvolvedor FullStack em formação. 
+- 📚 Estudante de Sistemas de Informação.
+- :white_flag: Em tempo livre, Gamer 🎮 e Otaku :jp: 
 
 <br>
 
