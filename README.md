@@ -2,10 +2,6 @@
  
 <h3 align="center"> 👨‍💻 Desenvolvedor FullStack em formação. </h3>
 
-- 🎓 Sou estudante de Sistemas de informação, atualmente cursando o 3° período.
-- 📫 Fale comigo em **riquelmedamiaosilva@gmail.com**
- 
-<br>
  
 ## 🛠 &nbsp;Tecnologias e Ferramentas
   
