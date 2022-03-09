@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Riquelme! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
  
-<div style="display: inline_block"  >
-<p> - 👨‍💻 Desenvolvedor FullStack em formação. </p>
-<p> - 🎓 Estudante de Sistemas de informação, atualmente cursando o 3° período. </p>
-</div>
+<h3 align="center"> 👨‍💻 Desenvolvedor FullStack em formação. </h3>
+
+- 🎓 Sou estudante de Sistemas de informação, atualmente cursando o 3° período.
+- 📫 Fale comigo em **riquelmedamiaosilva@gmail.com**
  
 <br>
  
