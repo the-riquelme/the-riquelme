@@ -1,8 +1,14 @@
-<h1 align="center">Olá, eu sou o Riquelme! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
- 
-<h3 align="center"> 👨‍💻 Desenvolvedor FullStack em formação. </h3>
+# ✌ Olá, tudo bem? Eu sou o Riquelme! 
 
- 
+<div style="display: inline_block"  >
+ <h3> 🤔 Sobre </h3>
+ <p> - 👨‍💻 Desenvolvedor FullStack em formação. </p>
+ <p> - 📚 Estudante de Sistemas de Informação. </p>
+ <p> - :white_flag: Em tempo livre, Gamer 🎮 e Otaku :jp: </p>
+</div>
+
+<br>
+
 ## 🛠 &nbsp;Tecnologias e Ferramentas
   
 <div align="left" style="display: inline_block" > 
