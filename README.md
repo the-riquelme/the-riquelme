@@ -8,7 +8,6 @@
 - 📚 Estudante de Sistemas de Informação - 3° período.
 - 🔭 Atualmente estudando: **HTML**, **CSS** e **JavaScript**!
 - 🌱 Buscando a primeira oportunidade na área de Desenvolvimento Web.
-- 📫 Me contate em: <a href="#author"> ... :pushpin: </a> 
 
 <br>
 
