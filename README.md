@@ -1,10 +1,14 @@
-<h1  align="center"> ✌ Olá, tudo bem? Eu sou o Riquelme! </h1>
 
-<h3> 🤔 Sobre </h3>
+<img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
-- 👨‍💻 Desenvolvedor FullStack em formação. 
-- 📚 Estudante de Sistemas de Informação.
-- :white_flag: Em tempo livre, Gamer 🎮 e Otaku :jp: 
+<img align="right" width="350" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+### ✌ Olá, tudo bem? Eu sou o Riquelme!
+- 👨‍💻 Desenvolvedor Full Stack em formação.
+- 📚 Estudante de Sistemas de Informação - 3° período.
+- 🔭 Atualmente estudando: **HTML**, **CSS** e **JavaScript**!
+- 🌱 Buscando a primeira oportunidade na área de Desenvolvimento Web.
+- 📫 Me contate em: <a href="#author"> ... :pushpin: </a> 
 
 <br>
 
@@ -29,7 +33,7 @@
 
 <br>
 
-## :iphone: &nbsp;Meus contatos
+<h2 id="author"> :iphone: &nbsp;Meus contatos </h2>
 
 <div lign="left" style="display: inline_block" >
      <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
