@@ -7,7 +7,7 @@
 - 👨‍💻 Desenvolvedor Full Stack em formação.
 - 📚 Estudante de Sistemas de Informação - **3° período**.
 - 🔭 Atualmente estudando: **HTML**, **CSS** e **JavaScript**!
-- 🌱 Buscando a primeira oportunidade na área de Desenvolvimento Web.
+- 🌱 Buscando a primeira oportunidade na área de Desenvolvimento.
 
 <br>
 
