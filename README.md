@@ -19,6 +19,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=21A4F1" alt="vscode"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
+    <a href="https://www.oracle.com/java/technologies/javase-documentation.html" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
 </div>
 
 <br>
