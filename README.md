@@ -7,8 +7,8 @@
        <h3>✌ Opa, tudo bom? Eu sou o Riquelme!</h3>
       <ul>
         <li>👨‍💻 Desenvolvedor Full Stack em formação.</li>
-        <li>📚 Estudante de Sistemas de Informação - **3° período**.</li>
-        <li>🌱 Buscando a primeira oportunidade na área de Desenvolvimento.</li>
+        <li>📚 Estudante de Sistemas de Informação - <b>3° período</b>.</li>
+        <li>🌱 Buscando a primeira oportunidade.</li>
       </ul>
     </td>
     <td width="40%">
