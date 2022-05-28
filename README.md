@@ -1,7 +1,21 @@
 
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
-<img align = "right" width="330" src = "https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
+<table align="center" width="100%">
+  <tr>
+    <td width="60%">
+       <h3>✌ Opa, tudo bom? Eu sou o Riquelme!</h3>
+      <ul>
+        <li>👨‍💻 Desenvolvedor Full Stack em formação.</li>
+        <li>📚 Estudante de Sistemas de Informação - **3° período**.</li>
+        <li>🌱 Buscando a primeira oportunidade na área de Desenvolvimento.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img  width="100%" src = "https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
+    </td>
+  </tr>
+</table>
 
 ### ✌ Opa, tudo bom? Eu sou o Riquelme!
 - 👨‍💻 Desenvolvedor Full Stack em formação.
