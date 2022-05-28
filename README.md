@@ -1,9 +1,9 @@
 
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="10">
   <tr>
-    <td width="60%">
+    <td width="60%" >
        <h3>✌ Opa, tudo bom? Eu sou o Riquelme!</h3>
       <ul>
         <li>👨‍💻 Desenvolvedor Full Stack em formação.</li>
@@ -17,10 +17,10 @@
   </tr>
 </table>
 
-### ✌ Opa, tudo bom? Eu sou o Riquelme!
+<!-- ### ✌ Opa, tudo bom? Eu sou o Riquelme!
 - 👨‍💻 Desenvolvedor Full Stack em formação.
 - 📚 Estudante de Sistemas de Informação - **3° período**.
-- 🌱 Buscando a primeira oportunidade na área de Desenvolvimento.
+- 🌱 Buscando a primeira oportunidade na área de Desenvolvimento. -->
 
 <br>
 
