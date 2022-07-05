@@ -29,8 +29,11 @@
   <a href="https://expressjs.com/en/4x/api.html#express" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="mysql"/></a>
   <a href="https://www.oracle.com/java/technologies/javase-documentation.html" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="git"/></a>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+  <a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack"/></a>
+  <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="linux"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=21A4F1" alt="vscode"/></a>
 </div>
 
@@ -40,10 +43,10 @@
   <a href="https://github.com/guihrib">
     <table>
       <tr>
-        <td style="padding: 0; width=50%; height=50%">
+        <td style="padding: 0; width=50%;">
             <img src="https://github-readme-stats.vercel.app/api/?username=the-riquelme&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
         </td>
-          <td style="padding: 0; width=50%; height=50%"">
+          <td style="padding: 0; width=50%;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-riquelme&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
         </td>
       </tr>
