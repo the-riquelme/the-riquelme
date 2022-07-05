@@ -40,7 +40,7 @@
 
 <div align="left">
   <h2> ⚙️ GitHub Analytics </h2>
-  <a href="https://github.com/guihrib">
+  <a href="https://github.com/the-riquelme">
     <table>
       <tr>
         <td style="padding: 0; width=50%;">
