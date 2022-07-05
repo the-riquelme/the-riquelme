@@ -19,13 +19,6 @@
   </table>
 </div>
 
-
-<div align="left">
-  <h2> 👤 Contate-me </h2>
-  <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank"><img alt="myemail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=riquelmedamiaosilva@gmail.com&color=1c6cbf"></a>
-  <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=riquelmedamiaosilva&color=1c6cbf"></a>
-</div>
-
  
 <div align="left" style="display: inline_block" > 
   <h2> 🛠 Tecnologias e Ferramentas </h2>
@@ -55,4 +48,11 @@
         </td>
       </tr>
     </table>
+</div>
+
+  
+<div align="left">
+  <h2> 👤 Contate-me </h2>
+  <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank"><img alt="myemail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=riquelmedamiaosilva@gmail.com&color=1c6cbf"></a>
+  <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=riquelmedamiaosilva&color=1c6cbf"></a>
 </div>
