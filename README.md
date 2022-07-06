@@ -43,10 +43,10 @@
   <a href="https://github.com/the-riquelme">
     <table>
       <tr>
-        <td style="padding: 0; width=50%; height=50%">
+        <td style="padding: 0; width=50%;">
             <img src="https://github-readme-stats.vercel.app/api/?username=the-riquelme&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
         </td>
-          <td style="padding: 0; width=50%; height=50%">
+          <td style="padding: 0; width=50%;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-riquelme&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
         </td>
       </tr>
