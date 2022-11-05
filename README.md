@@ -5,7 +5,7 @@
   <table align="center" width="100%" border="10">
     <tr>
       <td width="60%" >
-         <h3>✌ Oops, how are you? Hi 👋, I'm Riquelme Damião Silva!</h3>
+         <h3>✌ Oops, how are you? Hi 👋, I'm Riquelme D. Silva!</h3>
         <ul>
           <li>👨‍💻 Full stack developer in training </li>
           <li>📚 Information Systems Student </li>
