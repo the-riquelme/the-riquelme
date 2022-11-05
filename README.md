@@ -5,11 +5,11 @@
   <table align="center" width="100%" border="10">
     <tr>
       <td width="60%" >
-         <h3>✌ Opa, tudo bom? Eu sou o Riquelme!</h3>
+         <h3>✌ Oops, how are you? Hi 👋, I'm Riquelme Damião Silva!</h3>
         <ul>
-          <li>👨‍💻 Desenvolvedor Full Stack em formação</li>
-          <li>📚 Estudante de Sistemas de Informação</li>
-          <li>🌱 Entusiasta da área de T.I</li>
+          <li>👨‍💻 Full stack developer in training </li>
+          <li>📚 Information Systems Student </li>
+          <li>🌱 IT enthusiast </li>
         </ul>
       </td>
       <td width="40%">
