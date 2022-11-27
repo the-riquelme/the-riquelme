@@ -65,8 +65,7 @@
 </div>
   
 <div align="right">
-	<a href="[https://github.com/eoisaac/eoisaac/blob/main/README.pt-br.md](https://github.com/the-riquelme/the-riquelme/blob/main/README.pt-br.md)" >
-		<img src="https://img.shields.io/badge/Lang-pt--BR-blue" alt="Translate 
-			to Portuguese"/>
+	<a href="https://github.com/the-riquelme/the-riquelme/blob/main/README.pt-br.md)" >
+		<img src="https://img.shields.io/badge/Lang-pt--BR-blue" alt="Translate to Portuguese"/>
 	</a>
 </div>
