@@ -56,6 +56,6 @@
   
 <div align="left">
   <h2> 👤 Contact me </h2>
-  <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank"><img alt="myemail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=riquelmedamiaosilva@gmail.com&color=1c6cbf"></a>
-  <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=riquelmedamiaosilva&color=1c6cbf"></a>
+  <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank"><img alt="myemail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="My Linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
