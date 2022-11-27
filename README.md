@@ -21,7 +21,7 @@
 
  
 <div align="left" style="display: inline_block" > 
-  <h2> 🛠 Tecnologias e Ferramentas </h2>
+  <h2> 🛠 Technologies and Tools </h2>
   <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a>
@@ -55,7 +55,7 @@
 
   
 <div align="left">
-  <h2> 👤 Contate-me </h2>
+  <h2> 👤 Contact me </h2>
   <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank"><img alt="myemail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=riquelmedamiaosilva@gmail.com&color=1c6cbf"></a>
   <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=riquelmedamiaosilva&color=1c6cbf"></a>
 </div>
