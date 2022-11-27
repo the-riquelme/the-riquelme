@@ -58,3 +58,9 @@
   <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank"><img alt="myemail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Gmail&message=riquelmedamiaosilva@gmail.com&color=1c6cbf"></a>
   <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank"><img alt="My Linkedin" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Linkedin&message=riquelmedamiaosilva&color=1c6cbf"></a>
 </div>
+  
+<div align="right">
+	<a href="https://github.com/the-riquelme">
+		<img src="https://img.shields.io/badge/Lang-en-blue" alt="Traduzir para Inglês"/>
+	</a>
+</div>
