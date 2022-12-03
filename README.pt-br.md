@@ -6,7 +6,7 @@
       <td width="60%" >
          <h3>✌ Opa, como vai? Sou Riquelme D. Silva!</h3>
         <ul>
-          <li>👨‍💻 Desenvolvedor full stack </li>
+          <li>👨‍💻 Desenvolvedor full stack em formação </li>
           <li>📚 Estudante de sistemas de informação</li>
           <li>🌱 Entusiasta de TI </li>
         </ul>
