@@ -7,7 +7,7 @@
       <td width="60%" >
          <h3>✌ Oops, how are you? I'm Riquelme D. Silva!</h3>
         <ul>
-          <li>👨‍💻 Full stack developer in training </li>
+          <li>👨‍💻 Full Stack Web Developer in training </li>
           <li>📚 Information Systems Student </li>
           <li>🌱 IT enthusiast </li>
         </ul>
