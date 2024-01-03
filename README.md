@@ -4,16 +4,13 @@
 <div align="left" style="display: inline_block" > 
   <table align="center" width="100%" border="10">
     <tr>
-      <td width="60%" >
+      <td width="100%" >
          <h3>✌ Oops, how are you? I'm Riquelme D. Silva!</h3>
         <ul>
           <li>👨‍💻 Full Stack Web Developer in training </li>
           <li>📚 Information Systems Student </li>
           <li>🌱 IT enthusiast </li>
         </ul>
-      </td>
-      <td width="40%">
-        <img  width="100%" src = "https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
       </td>
     </tr>
   </table>
